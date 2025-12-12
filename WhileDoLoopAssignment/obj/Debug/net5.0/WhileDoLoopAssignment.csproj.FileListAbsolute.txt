@@ -1,0 +1,16 @@
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.exe
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.deps.json
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.runtimeconfig.json
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.runtimeconfig.dev.json
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.dll
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\ref\WhileDoLoopAssignment.dll
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\bin\Debug\net5.0\WhileDoLoopAssignment.pdb
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.csprojAssemblyReference.cache
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.AssemblyInfoInputs.cache
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.AssemblyInfo.cs
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.csproj.CoreCompileInputs.cache
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.dll
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\ref\WhileDoLoopAssignment.dll
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.pdb
+D:\PYTHON\PackageExpress\WhileDoLoopAssignment\obj\Debug\net5.0\WhileDoLoopAssignment.genruntimeconfig.cache

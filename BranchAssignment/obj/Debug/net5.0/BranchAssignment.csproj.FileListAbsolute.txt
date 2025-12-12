@@ -1,0 +1,16 @@
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.exe
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.deps.json
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.runtimeconfig.json
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.runtimeconfig.dev.json
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.dll
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\ref\BranchAssignment.dll
+D:\PYTHON\PackageExpress\BranchAssignment\bin\Debug\net5.0\BranchAssignment.pdb
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.csprojAssemblyReference.cache
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.AssemblyInfoInputs.cache
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.AssemblyInfo.cs
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.csproj.CoreCompileInputs.cache
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.dll
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\ref\BranchAssignment.dll
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.pdb
+D:\PYTHON\PackageExpress\BranchAssignment\obj\Debug\net5.0\BranchAssignment.genruntimeconfig.cache
